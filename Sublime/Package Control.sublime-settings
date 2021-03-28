@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Package Control",
+		"PackageSync",
+		"Pretty JSON",
+		"Text Pastry",
+		"BracketHighlighter",
+		"CSV",
+		"Diffy",
+		"Git",
+		"HostsEdit",
+		"Hybris Impex",
+		"Java Velocity",
+		"SideBarEnhancements",
+		"SyncedSideBar"
+	]
+}

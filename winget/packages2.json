@@ -1,0 +1,26 @@
+{
+	"$schema" : "https://aka.ms/winget-packages.schema.1.0.json",
+	"CreationDate" : "2021- 3-28 16:45:12.991",
+	"Sources" : 
+	[
+		{
+			"Packages" : 
+			[
+				{
+					"Id" : "Microsoft.WindowsTerminal"
+				},
+				{
+					"Id" : "Microsoft.dotnetRuntime"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://winget.azureedge.net/cache",
+				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name" : "winget",
+				"Type" : "Microsoft.PreIndexed.Package"
+			}
+		}
+	],
+	"WinGetVersion" : "0.2.10771"
+}

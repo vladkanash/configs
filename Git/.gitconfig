@@ -1,0 +1,9 @@
+[alias]
+	please = push --force-with-lease
+
+[user]
+	name = Vlad Kanash
+
+# Add to local .gitconfig:
+# [include]
+#	path = C:\\Users\\vladkanash-es\\OneDrive\\Документы\\Config\\Git\\.gitconfig
